@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/aditya/Downloads/Jar Files/json-simple-1.1.1.jar"
+    ]
+}

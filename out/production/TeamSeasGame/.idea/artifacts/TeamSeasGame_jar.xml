@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeamSeasGame:jar">
+    <output-path>$PROJECT_DIR$/../../EXECUTABLES</output-path>
+    <root id="archive" name="TeamSeasGame.jar">
+      <element id="module-output" name="TeamSeasGame" />
+    </root>
+  </artifact>
+</component>
